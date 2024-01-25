@@ -1,4 +1,4 @@
-baseURL = 'https://havekidsright.org/'
+baseURL = 'https://havekidsright.com/'
 languageCode = 'en-us'
 title = 'Have Kids Right!'
 theme = 'ananke'
