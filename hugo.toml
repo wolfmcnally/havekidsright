@@ -1,0 +1,9 @@
+baseURL = 'https://havekidsright.org/'
+languageCode = 'en-us'
+title = 'Have Kids Right!'
+theme = 'ananke'
+copyright = 'Wolf McNally'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
