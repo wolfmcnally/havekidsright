@@ -30,7 +30,7 @@ Rhetorically, this reframing is effective because it demonstrates the clear para
 
 **Objection 2:** "Capacity to suffer" isn't actually a simple genetic trait.
 
-**Response 2**: It's not simple, in fact it's intrinsic to the nature of sentient beings. But it is a trait that antinatalism seeks to eliminate from pool of all life, and because it is intrinsic, it seeks to eliminate it by artificially selecting against humans and other sentient life.
+**Response 2**: It's not simple, in fact it's intrinsic to the nature of sentient beings. But it is a trait that antinatalism seeks to eliminate from the pool of all life, and because it is intrinsic, it seeks to eliminate it by artificially selecting against humans and other sentient life.
 
 ---
 
