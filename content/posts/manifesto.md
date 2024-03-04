@@ -1,5 +1,6 @@
 +++
 title = 'Responsible Natalism: A Manifesto'
+author = 'Wolf McNally'
 date = 2024-01-24T22:55:33-08:00
 draft = false
 summary = "Procreation and parenting, when undertaken responsibly, are not only fundamental aspects of human nature but are also of self-evident value that contribute positively to individual lives, families, and humanity as a whole."

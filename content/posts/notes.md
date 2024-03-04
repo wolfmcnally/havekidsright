@@ -1,5 +1,6 @@
 +++
 title = "Author's Notes"
+author = 'Wolf McNally'
 date = 2024-01-24T22:49:13-08:00
 draft = false
 summary = "Author's Notes and Clarifications on the Manifesto."
