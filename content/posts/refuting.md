@@ -6,8 +6,6 @@ draft = false
 summary = "My notes on the antinatalist position and how it can be refuted."
 +++
 
-# Refuting Antinatalism
-
 Antinatalism is the belief that it is morally wrong to have children. This is a position that has been gaining traction in recent years, particularly in the West. It is important to understand the arguments made by antinatalists and to be able to refute them. Here are some of the key points made by antinatalists and how they can be refuted.
 
 ## Part 1: Distractions
