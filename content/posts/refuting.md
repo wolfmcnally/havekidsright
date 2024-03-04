@@ -104,7 +104,7 @@ This is a broad survey of how various philosophical systems view suffering. It i
 - Guaranteed Non-existence: A state without the possibility of suffering, but also without the possibility of joy.
 - Existence: A state that guarantees both the potential for joy and the inevitability of suffering.
 
-**Refutation:** _Begging the question:_ This argument is based on value judgments that are not self-evident, particularly that suffering is self-evidently the "ultimate anti-value" that outweighs all other values. Since it axiomatically ("axiologically") presupposes that suffering is an ultimate anti-value, it is essentially a tenet of faith asking you to accept without proof what it has the burden to prove. Even more fundamentally, it also commits _incoherence_ because it attempts to compare a state of non-existence with a state of existence, which is impossible because non-existence has no attributes (including "zero suffering") and therefore cannot be compared to anything. In this sense the argument is "not even wrong."
+**Refutation:** _Begging the question:_ This argument is based on value judgments that are not self-evident, particularly that suffering is the "ultimate anti-value" that outweighs all other values. Since it axiomatically presupposes that suffering is the ultimate anti-value, it is essentially a tenet of faith asking you to accept without proof what it has the burden to prove. Even more fundamentally, it also commits _incoherence_ because it attempts to compare a state of non-existence with a state of existence, which is impossible because non-existence has no attributes (including "zero suffering") and therefore cannot be compared to anything. In this sense the argument is "not even wrong."
 
 ### Argument from Social Justice
 
