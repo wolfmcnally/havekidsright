@@ -10,7 +10,7 @@ In this climate of doubt and pessimism, it is critical to reexamine the fundamen
 The concept of **Responsible Natalism** doesn't naively glorify parenthood, nor does it ignore the complexities of modern life. Instead, it offers a considered stance that values procreation and parenting as essential, rewarding parts of the human experience, tempered with a strong emphasis on personal responsibility, ethical considerations, and the well-being of both parents and children. By doing so, it aims to inspire a more balanced, thoughtful approach to one of life's most significant journeys.
 
 - [Read the Manifesto](posts/manifesto)
-- [Watch my debate with antinatalist Lawrence Anton](posts/video.md)
-- [Read my philosophical dialogue: *Achilles, the Tortoise, and the Raven*](posts/raven.md)
-- [Refuting Antinatalism](posts/refuting.md)
-- [Is antinatalism actually a particularly virulent form of eugenics?](posts/antipatigenics.md)
+- [Watch my debate with antinatalist Lawrence Anton](posts/video)
+- [Read my philosophical dialogue: *Achilles, the Tortoise, and the Raven*](posts/raven)
+- [Refuting Antinatalism](posts/refuting)
+- [Is antinatalism actually a particularly virulent form of eugenics?](posts/antipatigenics)
