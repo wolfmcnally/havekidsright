@@ -186,7 +186,7 @@ Tortoise: Another meaningless utterance, Raven: conceptual beings cannot only *n
 
 Raven: Oh, that old thing? I never read it: it has far too many words, although I quite liked some of the illustrations.
 
-Achilles: But Mr. T, surely Raven has a point about the effects our actions today impact future generations. We must consider the lives we bring into this world and their likelihood for greater or lesser suffering.
+Achilles: But Mr. T, surely Raven has a point about how our actions today impact future generations. We must consider the lives we bring into this world and their likelihood for greater or lesser suffering.
 
 Tortoise: Of course, Achilles. It is our responsibility to consider the world we bequeath to our descendants. But that is different from claiming that non-existence itself has moral value or that potential lives have rights or interests. Furthermore, unlike you and I, Raven has no *actual* moral commitment to future generations. Without such a commitment, one can hardly argue for the welfare of the future. In fact, Raven is morally committed to bringing about *no* future generations.
 
