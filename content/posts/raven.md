@@ -140,7 +140,7 @@ Achilles: Nor will they experience joy!
 
 Tortoise: One moment, dear Achilles. Raven, are you saying what you are calling the “never-born” exist in some sense that they are metaphysical objects that can be acted upon by “bringing” them into existence through the act of procreation?
 
-Raven: Of course not: that is a primitive and superstitious idea. We see no evidence of either a Great Beyond nor a Great Before.
+Raven: Of course not: that is a primitive and superstitious idea. We see evidence of neither a Great Beyond nor a Great Before.
 
 Tortoise: Then let’s lightly hold that belief together. Now, do you agree that things pass in and out of this Great Existence? Things come to be, and things come to be not?
 
