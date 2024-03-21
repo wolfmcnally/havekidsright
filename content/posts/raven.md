@@ -98,7 +98,7 @@ Raven: They selfishly and irresponsibly brought more suffering and death into th
 
 Achilles: Why tell us your dark thoughts, Raven?
 
-Raven: I have been following you, and listening. I think you may be intelligent enough to understand: to understand the way out of the misery of suffering and the finality of death.
+Raven: I have been following you, and listening. I think you may be intelligent enough to understand: to understand the way out of the misery of suffering and the insult of death.
 
 Achilles: You know how to conquer death, Raven? That is indeed a warrior’s dream come true!
 
