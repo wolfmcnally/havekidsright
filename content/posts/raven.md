@@ -94,7 +94,7 @@ Achilles: Mr. T, this raven is clearly mad: he says we share the same parents.
 
 Tortoise: I believe he means we share ancestors. Raven, what sin have our parents and all our ancestors committed?
 
-Raven: They selfishly and irresponsibly brought more suffering and death into the world. All living beings suffer and die. You will suffer and die. *I* will suffer and die. This is an unmitigated evil perpetrated upon us by our parents. They may have *thought* they were doing right, but all around us we see suffering and death. They are inevitable, and in many cases we do our utmost to multiply the suffering and hasten the death! We console ourselves by thinking that more offspring somehow ameliorate this, but it only perpetuates the cycle. Selfishness! Reprobates!
+Raven: They selfishly and irresponsibly brought more suffering and death into the world. All living beings suffer and die. You will suffer and die. *I* will suffer and die. This is an unmitigated evil perpetrated upon us by our parents. They may have *thought* they were doing right, but all around us we see suffering and death. These are inevitable, and in many cases we do our utmost to multiply the suffering and hasten the death! We console ourselves by thinking that more offspring somehow ameliorate this, but it only perpetuates the cycle. Selfishness! Reprobates!
 
 Achilles: Why tell us your dark thoughts, Raven?
 
