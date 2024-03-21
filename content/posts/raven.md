@@ -134,7 +134,7 @@ Raven: Yes that must follow, if you want to be petty about it.
 
 Tortoise: What meaning can “good” or “evil” have in a world with nobody in it to experience either? Joy and suffering are defined by those experiencing them. The dead experience neither, as far as we know.
 
-Raven: Yes! So you see! Neither to do the never-born ever *have* to experience suffering or death.
+Raven: Yes! So you see! Neither do the never-born ever *have* to experience suffering or death.
 
 Achilles: Nor will they experience joy!
 
