@@ -1,7 +1,7 @@
 +++
 title = "Achilles, the Tortoise, and the Raven"
 author = 'Wolf McNally'
-date = 2024-03-21T01:54:00-08:00
+date = 2024-03-20T01:54:00-08:00
 draft = false
 summary = "Achilles and the Tortoise encounter a raven with a radical message."
 +++
