@@ -6,6 +6,8 @@ draft = false
 summary = "Achilles and the Tortoise encounter a raven with a radical message."
 +++
 
+![Achilles, the Tortoise, and the Raven](/raven.jpg)
+
 *Achilles jogs up behind the Tortoise.*
 
 Achilles: Hello, old friend!
