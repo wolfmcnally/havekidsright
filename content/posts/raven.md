@@ -204,7 +204,7 @@ Achilles: The thought had crossed my mind. I said so, didn’t I Mr. T?
 
 Tortoise: You did, Achilles.
 
-Raven: The powerful are wise, and in the best position to bring about a better world. They will hear my boundless compassion. It must be done gradually, at least at first. In any case, I have no further use for you two. Reprobates!
+Raven: The powerful are wise, and in the best position to bring about a better world. They will hear my boundless compassion. It must be done gradually, at least at first. In any case, I have no further use for you two. *Reprobates!*
 
 *Raven flies off*
 
