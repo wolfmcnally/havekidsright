@@ -11,3 +11,6 @@ The concept of **Responsible Natalism** doesn't naively glorify parenthood, nor 
 
 - [Read the Manifesto](posts/manifesto)
 - [Watch my debate with antinatalist Lawrence Anton](posts/video.md)
+- [Read my philosophical dialogue, *Achilles, the Tortoise, and the Raven*](posts/raven.md)
+- [Refuting Antinatalism](posts/refuting.md)
+- [Is antinatalism actually a particularly virulent form of eugenics?](posts/antipatigenics.md)
