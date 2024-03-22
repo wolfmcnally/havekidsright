@@ -148,13 +148,13 @@ Raven: Of course.
 
 Tortoise: Do you believe a triangle with four corners can come to be?
 
-Raven: You are being inane: by *definition* a triangle has three corners. Therefore a triangle with four corners is a contradiction, a logical impossibility.
+Raven: You are being inane: *by definition* a triangle has three corners. Therefore a triangle with four corners is a contradiction, a logical impossibility.
 
 Tortoise: So we can speak things that not only do not refer to anything in reality, but *cannot* refer to anything in reality.
 
 Raven: That is so.
 
-Tortoise: Do you think it is *important* to distinguish between concepts that are metaphysical realities and concepts that are merely linguistic constructs? That conflating the two can lead to untenable positions?
+Tortoise: Do you think it is *important* to distinguish between concepts that are metaphysical realities, and concepts that are merely linguistic constructs? That conflating the two can lead to untenable positions?
 
 Raven: Yes, but I am speaking of the real lives of beings that suffer and die, and you are discussing the importance of impossible concepts!
 
