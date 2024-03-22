@@ -142,7 +142,7 @@ Tortoise: One moment, dear Achilles. Raven, are you saying what you are calling 
 
 Raven: Of course not: that is a primitive and superstitious idea. We see evidence of neither a Great Beyond nor a Great Before.
 
-Tortoise: Then let’s lightly hold that belief together. Now, do you agree that things pass in and out of this Great Existence? Things come to be, and things come to be not?
+Tortoise: Then let’s lightly hold that belief together. Now, do you agree that things pass in and out of this Great Existence? At times things come to be, and later those things come to be not?
 
 Raven: Of course.
 
