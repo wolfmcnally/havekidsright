@@ -182,7 +182,7 @@ Tortoise: Indeed. Living beings have aims and plan for the future. We decide whe
 
 Raven: You beget them without their consent!
 
-Tortoise: Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning stops— it is incoherent to even *speak* of consent. It is like asking whether the characters in Douglas Hofstadter’s "Gödel, Escher, Bach" dialogues would prefer to never have been written: you can string together those concepts, but any attempt to assign them metaphysical weight is incoherent.
+Tortoise: Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning ends— it is incoherent to even *speak* of consent. It is like asking whether the characters in Douglas Hofstadter’s "Gödel, Escher, Bach" dialogues would prefer to never have been written: you can string together those concepts, but any attempt to assign them metaphysical weight is incoherent.
 
 Raven: Oh, that old thing? I never read it: it has far too many words, although I quite liked some of the illustrations.
 
