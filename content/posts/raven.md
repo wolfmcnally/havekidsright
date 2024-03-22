@@ -146,7 +146,7 @@ Tortoise: Then let’s lightly hold that belief together. Now, do you agree that
 
 Raven: Of course.
 
-Tortoise: Do you believe a triangle with four corners can exist?
+Tortoise: Do you believe a triangle with four corners can come to be?
 
 Raven: You are being inane: by *definition* a triangle has three corners. Therefore a triangle with four corners is a contradiction, a logical impossibility.
 
