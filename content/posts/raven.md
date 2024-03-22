@@ -200,7 +200,7 @@ Achilles: By causing all living beings to cease forever?
 
 Raven: Not at first! Do you think me mad?
 
-Achilles: The thought had crossed my mind. I said so, didn’t I Mr. T?
+Achilles: The thought had crossed my mind; I said so, didn’t I Mr. T?
 
 Tortoise: You did, Achilles.
 
