@@ -126,7 +126,7 @@ Raven: You know *nothing* of compassion! It is out of my compassion for the worl
 
 Tortoise: I think we can agree that nobody wishes *more* suffering in the world, at least not for its own sake. But you think the end of all life, and hence all suffering, is the ultimate expression of compassion?
 
-Raven: You make it sound like a *bad* thing when you put it that way. But yes, fewer lives means less suffering, and no lives means no suffering: it is inescapable logic.
+Raven: You make it sound like a bad thing when you put it *that* way. But yes, fewer lives means less suffering, and no lives means no suffering: it is inescapable logic.
 
 Tortoise: And the end of all life would then be the ultimate good?
 
