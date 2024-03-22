@@ -138,7 +138,7 @@ Raven: Yes! So you see! And neither do the never-born ever *have* to experience 
 
 Achilles: Nor will they experience joy!
 
-Tortoise: One moment, dear Achilles. Raven, are you saying what you are calling the “never-born” exist in some sense that they are metaphysical objects that can be acted upon by “bringing” them into existence through the act of procreation?
+Tortoise: One moment, dear Achilles. Raven, are you saying that what you are calling the “never-born” are in some way are metaphysical objects, that can be acted upon by “bringing” them into existence through the act of procreation?
 
 Raven: Of course not: that is a primitive and superstitious idea. We see evidence of neither a Great Beyond nor a Great Before.
 
@@ -160,15 +160,15 @@ Raven: Yes, but I am speaking of the real lives of beings that suffer and die, a
 
 Tortoise: Do potential lives exist? Can they be weighed? Counted in a census? Compared in their moral worth to those of us standing right here who *do* exist? Can they be judged by the gods?
 
-Raven: No, of course not. I am referring to the overall reduction of suffering in the world. Each potential life not created is a portion of suffering prevented. It is an abstract exercise: a simple calculus that shows that the prevention of life is the prevention of suffering!
+Raven: No, of course not. I am referring to the overall reduction of suffering in the world. Each potential life not created is a portion of suffering prevented. It is an abstraction: a simple calculus that shows that the prevention of life is the prevention of suffering!
 
 Tortoise: So not only can “potential lives” not suffer, it is actually nonsensical to talk about the moral weight of such concepts. It is like talking about the fourth corner of a triangle.
 
 Raven: But you agree that potential lives cannot suffer!
 
-Tortoise: They cannot suffer nor not suffer.
+Tortoise: They cannot suffer, nor not suffer.
 
-Raven: But you used the word “they!” To what are you referring then? It must be something meaningful for you to refer to it.
+Raven: But you just used the word “they!” To what then are you referring? It must be something meaningful for you to refer to it.
 
 Tortoise: I am not speaking of metaphysical entities, I am using metalanguage to reject your attempt to compare abstract concepts to metaphysical realities and potentialities.
 
