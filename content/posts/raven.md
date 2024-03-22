@@ -150,7 +150,7 @@ Tortoise: Do you believe a triangle with four corners can come to be?
 
 Raven: You are being inane: by *definition* a triangle has three corners. Therefore a triangle with four corners is a contradiction, a logical impossibility.
 
-Tortoise: So you agree that we can speak things that not only do not refer to anything in reality, but *cannot* refer to anything in reality.
+Tortoise: So we can speak things that not only do not refer to anything in reality, but *cannot* refer to anything in reality.
 
 Raven: That is so.
 
