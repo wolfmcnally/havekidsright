@@ -154,7 +154,7 @@ Tortoise: So you agree that we can speak things that not only do not refer to an
 
 Raven: That is so.
 
-Tortoise: Do you think it is *important* to distinguish between concepts that are metaphysical realities and concepts that are merely linguistic constructs? That confusing the two can lead to untenable positions?
+Tortoise: Do you think it is *important* to distinguish between concepts that are metaphysical realities and concepts that are merely linguistic constructs? That conflating the two can lead to untenable positions?
 
 Raven: Yes, but I am speaking of the real lives of beings that suffer and die, and you are discussing the importance of impossible concepts!
 
