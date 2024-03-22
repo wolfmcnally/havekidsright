@@ -172,9 +172,9 @@ Raven: But you used the word “they!” To what are you referring then? It must
 
 Tortoise: I am not speaking of metaphysical entities, I am using metalanguage to reject your attempt to compare abstract concepts to metaphysical realities and potentialities.
 
-Achilles: Let me see whether I understand, Mr. T: you are saying he is wrong to compare things that can only be conceived to things that can or do exist?
+Achilles: Let me see whether I understand, Mr. T: you are saying he is wrong to compare concepts that can only be spoken of, to things that can or do exist?
 
-Tortoise: Worse than that, my friend. His conceptualizations are not even wrong, they are incoherent.
+Tortoise: Worse than that, my friend. His conceptualizations are not *even* wrong: they are incoherent.
 
 Raven: But you *can* choose to procreate! You can also choose *not* to procreate!
 
