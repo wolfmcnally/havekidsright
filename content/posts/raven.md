@@ -132,7 +132,7 @@ Tortoise: And the end of all life would then be the ultimate good?
 
 Raven: Yes that must follow, if you want to be petty about it.
 
-Tortoise: What meaning can “good” or “evil” have in a world with nobody in it to experience either? Joy and suffering are defined by those experiencing them. The dead experience neither, as far as we know.
+Tortoise: What meaning can “good” or “evil” have in a world with nobody in it to experience either? Joy and suffering are defined by those able to experience them. The dead experience neither, as far as we know.
 
 Raven: Yes! So you see! And neither do the never-born ever *have* to experience suffering or death.
 
