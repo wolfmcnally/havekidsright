@@ -120,7 +120,7 @@ Tortoise: And you believe that inevitable suffering and death are worse than con
 
 Raven: Of course! Isn’t it obvious?
 
-Achilles: This is a cold, heartless calculation dear Raven. Have you no compassion?
+Achilles: This is a cold, heartless calculation good Raven. Have you no compassion?
 
 Raven: You know *nothing* of compassion! It is out of my compassion for the world that I teach the end of suffering. *That* is compassion!
 
