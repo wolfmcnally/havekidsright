@@ -122,7 +122,7 @@ Raven: Of course! Isn’t it obvious?
 
 Achilles: This is a cold, heartless calculation good Raven. Have you no compassion?
 
-Raven: You know *nothing* of compassion! It is out of my compassion for the world that I teach the end of suffering. *That* is compassion!
+Raven: You know *nothing* of compassion! It is out of my compassion for the world that I speak the end of suffering. *That* is compassion!
 
 Tortoise: I think we can agree that nobody wishes *more* suffering in the world, at least not for its own sake. But you think the end of all life, and hence all suffering, is the ultimate expression of compassion?
 
