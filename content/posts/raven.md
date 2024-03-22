@@ -190,7 +190,7 @@ Achilles: But Mr. T, surely Raven has a point about how our actions today impact
 
 Tortoise: Of course, Achilles. It is our responsibility to consider the world we bequeath to our descendants. But that is different from claiming that non-existence is comparable to anything of moral value, or that procreation harms the rights or interests of potential lives. Furthermore, unlike you and I, Raven has no *actual* moral commitment to future generations. Without such a commitment, one can hardly argue for the welfare of the future. In fact, Raven is morally committed to bringing about *no* future generations.
 
-Raven: I can see I was wrong about you. You are heartless jugglers of words. It’s all very well: you were practice for me. I am actually on my way to speak to a conclave of great leaders in Mycenae, including great Agamemnon himself.
+Raven: I can see I was wrong about you. You are heartless jugglers of words. It’s all very well: you were practice for me. I am actually on my way to speak before a conclave of great leaders in Mycenae, including great Agamemnon himself.
 
 Achilles: And of what will you speak to them?
 
