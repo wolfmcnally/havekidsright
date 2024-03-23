@@ -140,7 +140,7 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Tortoise:** One moment, dear Achilles. Raven, are you saying that what you are calling the “never-born” are in some way are metaphysical objects, that can be acted upon by “bringing” them into existence through the act of procreation?
 
-**Raven:** Of course not: that is a primitive and superstitious idea. We see evidence of neither a Great Beyond nor a Great Before.
+**Raven:** Of course not: that is a primitive and superstitious idea. We neither see evidence of a Great Beyond nor a Great Before.
 
 **Tortoise:** Then let’s lightly hold that belief together. Now, do you agree that things pass in and out of this Great Existence? At times things come to be, and later those things come to be not?
 
