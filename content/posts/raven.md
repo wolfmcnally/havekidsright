@@ -182,15 +182,17 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Raven:** You beget them without their consent!
 
-**Tortoise:** Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning ends— it is incoherent to even *speak* of consent. It is like asking whether the characters in Douglas Hofstadter’s "Gödel, Escher, Bach" dialogues would prefer to never have been written: you can string together those concepts, but any attempt to assign them metaphysical weight is incoherent.
+**Tortoise:** Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning ends— it is incoherent to even *speak* of consent. It is like asking whether the fictional characters in Douglas Hofstadter’s "Gödel, Escher, Bach" dialogues—
 
-**Raven:** Oh, that old thing? I never read it: it has far too many words, although I quite liked some of the illustrations.
+**Raven:** Oh, that old thing? I never read it: it has far too many words. Although I quite liked some of the illustrations.
+
+**Tortoise:** Very well, it would be like asking whether those characters depicted in an illustration would prefer to never have been drawn: you can string together those concepts, but any attempt to assign them metaphysical weight is incoherent.
 
 **Achilles:** But Mr. T, surely Raven has a point about how our actions today impact future generations. We must consider the lives we bring into this world and their likelihood for greater or lesser suffering.
 
 **Tortoise:** Of course, Achilles. It is our responsibility to consider the world we bequeath to our descendants. But that is different from claiming that non-existence is comparable to anything of moral value, or that procreation harms the rights or interests of potential lives. Furthermore, unlike you and I, Raven has no *actual* moral commitment to future generations. Without such a commitment, one can hardly argue for the welfare of the future. In fact, Raven is morally committed to bringing about *no* future generations.
 
-**Raven:** I can see I was wrong about you. You are heartless jugglers of words. It’s all very well: you were practice for me. I am actually on my way to speak before a conclave of great leaders in Mycenae, including great Agamemnon himself.
+**Raven:** I can see I was wrong about you. You are heartless jugglers of words. It’s all very well: you were merely practice for me. I am actually on my way to speak before a conclave of great leaders in Mycenae, including great Agamemnon himself.
 
 **Achilles:** And of what will you speak to them?
 
