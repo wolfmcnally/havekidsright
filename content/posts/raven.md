@@ -20,11 +20,11 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Achilles:** Out for your morning constitutional, are you?
 
-**Tortoise:** Indeed I am. The walk from my knoll to the nearby meadow occupies much of my day. My walk back shall be my evening constitutional. As is my habit, I repeat this with some frequency.
+**Tortoise:** The walk from my knoll to the nearby meadow occupies much of my day. My walk back shall be my evening constitutional. As is my habit, I repeat this with some frequency.
 
 **Achilles:** You must have a lot of time on your hands!
 
-**Tortoise:** If I had hands, I suppose that might be true. But this is not my idleness: I spend this time in contemplation of my studies, and by my lights it is time well spent indeed.
+**Tortoise:** If I had hands, I suppose that might be true. But this is not my idleness: I spend this time in contemplation of my studies, and by my lights it is time well spent.
 
 **Achilles:** You have such a rich life of the mind, Mr. T! But I do wish you would someday make time for the foot race I challenged you to.
 
@@ -100,7 +100,7 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Raven:** I have been following you, and listening. I think you may be intelligent enough to understand: to understand the way out of the misery of suffering and the insult of death.
 
-**Achilles:** You know how to conquer death, Raven? That is indeed a warrior’s dream come true!
+**Achilles:** You know how to conquer death, Raven? That is a warrior’s dream come true!
 
 **Raven:** Indeed, if you heed my words then no warrior will ever die again.
 
