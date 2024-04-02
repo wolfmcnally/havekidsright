@@ -120,7 +120,7 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Raven:** Of course! Isn’t it obvious?
 
-**Achilles:** This is a cold, heartless calculation good Raven. Have you no compassion?
+**Achilles:** This is a cold, heartless calculation! Good Raven, have you no compassion?
 
 **Raven:** You know *nothing* of compassion! It is out of my compassion for the world that I speak the end of suffering. *That* is compassion!
 
