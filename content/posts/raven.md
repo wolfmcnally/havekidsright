@@ -150,7 +150,7 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Raven:** You are being inane: *by definition* a triangle has three corners. Therefore a triangle with four corners is a contradiction, a logical impossibility.
 
-**Tortoise:** So we can speak things that not only do not refer to anything in reality, but *cannot* refer to anything in reality.
+**Tortoise:** So we can speak things that not only *do not* refer to anything in reality, but *cannot* refer to anything in reality.
 
 **Raven:** That is so.
 
@@ -166,7 +166,7 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Raven:** But you agree that potential lives cannot suffer!
 
-**Tortoise:** They cannot suffer, nor not suffer.
+**Tortoise:** They cannot suffer, nor *not* suffer.
 
 **Raven:** But you just used the word “they!” To what then are you referring? It must be something meaningful for you to refer to it.
 
@@ -174,13 +174,13 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Achilles:** Let me see whether I understand, Mr. T: you are saying he is wrong to compare concepts that can only be spoken of, to things that can or do exist?
 
-**Tortoise:** Worse than that, my friend. His conceptualizations are not *even* wrong: they are incoherent.
+**Tortoise:** Worse than that, my friend. His conceptualizations are *logically incoherent*: not *even* wrong.
 
 **Raven:** But you *can* choose to procreate! You can also choose *not* to procreate!
 
 **Tortoise:** Indeed. Living beings have aims and plan for the future. We decide whether to beget the next generation.
 
-**Raven:** You beget them without their consent!
+**Raven:** You beget them without their consent! You doom them to suffering and death!
 
 **Tortoise:** Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning ends— it is incoherent to even *speak* of consent. It is like asking whether the fictional characters in Douglas Hofstadter’s "Gödel, Escher, Bach" dialogues—
 
@@ -210,9 +210,9 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 *Raven flies off*
 
-**Tortoise:** We are in Phthia. For a typical man Mycenae is a week’s trek away. Raven flies much faster than that. I recall you saying you wanted a race?
+**Tortoise:** We are in Phthia. For a typical man Mycenae is a week’s trek. Raven flies much faster than that. I recall you saying you wanted a race?
 
-**Achilles:** I would welcome it. And I am no typical man.
+**Achilles:** I would welcome it; and I am no typical man.
 
 **Tortoise:** It is said that a lie runs to the antipodes while the truth is still lacing its shoes.
 
