@@ -71,7 +71,7 @@ This is a broad survey of how various philosophical systems view suffering. It i
 
 **Argument:** A couple who know they are genetically predisposed to have a malformed child would be making an ethical decision to not procreate. Knowing that the children you bring into the world would suffer is analogous.
 
-**Refutation:** _Lifeboat scenario, hasty generalization:_ The legal adage "bad cases make bad law" is applicable here. Just as most people will never face the terrible choice of deciding which ten people to save from a sinking boat of a hundred passengers, most people will never face the choice of whether to procreate knowing their child will suffer terribly and die young. So the specific case of a couple with a known genetic predisposition to have a malformed child is not analogous to the general case of all procreation. It is a bad analogy, and therefore a hasty generalization.
+**Refutation:** _Lifeboat scenario, hasty generalization:_ The legal adage "bad cases make bad law" is applicable here. Just as most people will never face the terrible choice of deciding which ten people to save from a sinking boat of a hundred passengers, most people will never face the choice of whether to procreate knowing their child will suffer terribly and die young. So the specific case of a couple with a known genetic predisposition to have a malformed child is not analogous to the general case of all procreation. It is a bad analogy— reasoning "from the edges of the bell curve," and therefore a hasty generalization.
 
 ### Argument from Non-Consent
 
