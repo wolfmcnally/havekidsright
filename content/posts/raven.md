@@ -182,7 +182,7 @@ summary = "Achilles and the Tortoise encounter a raven with a radical message."
 
 **Raven:** You beget them without their consent! You doom them to suffering and death!
 
-**Tortoise:** Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning ends— it is incoherent to even *speak* of consent. It is like asking whether the fictional characters in Douglas Hofstadter’s "Gödel, Escher, Bach" dialogues—
+**Tortoise:** Another meaningless utterance, Raven: conceptual beings not only *cannot* consent— which is where your reasoning ends— it is incoherent to even *speak* of consent. It is like asking whether the fictional characters in the dialogues of Douglas Hofstadter’s "Gödel, Escher, Bach"—
 
 **Raven:** Oh, that old thing? I never read it: it has far too many words. Although I quite liked some of the illustrations.
 
